@@ -1,1 +1,1 @@
-worker: ./bin/scalabot
+worker: target/universal/stage/bin/scalabot
