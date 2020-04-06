@@ -1,4 +1,4 @@
-name := """Scala Bot"""
+name := "scalabot"
 
 version := "1.0-kerala"
 
