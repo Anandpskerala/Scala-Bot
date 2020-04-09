@@ -5,7 +5,7 @@ version := "1.0-kerala"
 scalaVersion := "2.11.7"
 
 libraryDependencies ++= Seq(
-  "info.mukel" %% "telegrambot4s" % "3.0.14"
+  "com.bot4s" %% "telegram-core" % "4.0.0-RC2"
 )
 
 enablePlugins(JavaAppPackaging)
